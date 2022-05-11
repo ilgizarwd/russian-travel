@@ -1,6 +1,8 @@
 .place__paragraph {
-  grid-row-start: 2;
-  grid-row-end: 3;
-  grid-column-start: 2;
-  grid-column-end: 3;
+  margin: 0;
+  padding-bottom: 26px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
 }
