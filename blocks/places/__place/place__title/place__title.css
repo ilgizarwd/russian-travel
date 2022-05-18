@@ -1,11 +1,8 @@
 .place_title {
-    margin: 0;
-    width: 460px;
-    height: 152px;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    /* grid-row-start: 1;
-    grid-row-end: 2; */
+  margin: 0;
+  grid-row: 1/2;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+
 }

@@ -1,11 +1,8 @@
 .website__link {
+  margin: 0;
   grid-row: 1/2;
   grid-column: 2/3;
-  padding-top: 130px;
-
-
-  width: 456px;
-  height: 22px;
+  align-self: end;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -13,4 +10,8 @@
 
   text-decoration-line: underline;
   color: #FFFFFF;
+}
+
+.website__link:hover {
+  opacity: 0.8;
 }

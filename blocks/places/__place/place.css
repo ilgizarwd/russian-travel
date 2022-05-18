@@ -1,11 +1,12 @@
 .place {
-    width: 984px;
-    height: 660px;
-    display: grid;
-    grid-template-columns: 460px 484px;
-    grid-template-rows: repeat(2, 1fr);
-    column-gap: 40px;
-    row-gap: 48px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+  display: grid;
+  max-width: calc(100% - (100% - 83.1081081081081%));
+  margin: 80px auto 0;
+  grid-template-columns: 460px minmax(min-content, max-content);
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  column-gap: 40px;
+  row-gap: 48px;
+}
+.place:first-child {
+  margin: 0 auto;
+}
