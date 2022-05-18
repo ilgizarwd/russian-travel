@@ -1,0 +1,13 @@
+.lead__title {
+  /* max-width: 73.17%; */
+  padding-top: 56px;
+  max-width: calc(100% - (100% - 73.17%));
+  margin: 0 auto;
+
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  /* or 104% */
+
+  text-align: center;
+}

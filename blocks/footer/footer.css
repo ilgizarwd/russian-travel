@@ -1,0 +1,6 @@
+.footer {
+  margin: 0 auto 24px;
+  max-width: 92.5%;
+  display: flex;
+  justify-content: space-between;
+}
