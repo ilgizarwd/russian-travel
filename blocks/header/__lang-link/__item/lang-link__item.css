@@ -1,4 +1,8 @@
-.lang-link__item:first-child {
-  padding-right: 18px;
-  text-decoration-line: underline;
+.lang-link__item {
+  color: white;
+  text-decoration-line: none;
+}
+
+.lang-link__item:hover {
+  opacity: 0.8;
 }

@@ -1,11 +1,3 @@
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(./vendor/Inter-Regular.woff2) format("woff2"),
-       url(./vendor/Inter-Regular.woff) format("woff");
-}
 .page {
   background-color: #2A2C2F;
   max-width: 1280px;
