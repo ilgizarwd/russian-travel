@@ -1,4 +1,4 @@
-.cover_overlay::before {
+.cover__overlay::before {
   position: absolute;
   z-index: -1;
   top: 0;
@@ -11,7 +11,7 @@
   transition: .8s;
 }
 
-.cover_overlay:hover::before {
+.cover__overlay:hover::before {
   opacity: .8;
   transition: .8s;
 }
