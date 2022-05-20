@@ -31,7 +31,7 @@
     margin: 64px auto;
     max-width:288px;
     grid-template-columns:auto;
-    grid-template-rows:repeat(12, 1fr); 
+    grid-template-rows:repeat(12, 1fr);
     gap: 12px;
   }
 }
