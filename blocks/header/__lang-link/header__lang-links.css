@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__lang-links {
   display: flex;
   list-style-type: none;
   margin: 0;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang-link {
+  .header__lang-links {
     font-size: 18px;
     line-height: 20px;
   }

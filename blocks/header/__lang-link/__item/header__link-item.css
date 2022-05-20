@@ -1,8 +1,8 @@
-.lang-link__item {
+.header__link-item {
   color: white;
   text-decoration-line: none;
 }
 
-.lang-link__item:hover {
+.header__link-item:hover {
   opacity: 0.8;
 }
