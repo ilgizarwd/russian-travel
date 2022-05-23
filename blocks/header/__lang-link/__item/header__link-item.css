@@ -1,7 +1,6 @@
 .header__link-item {
   color: white;
-  text-decoration-line: none;
-  margin-right: 18px;
+   margin-right: 18px;
 }
 .header__link-item:last-child {
   margin: 0;
