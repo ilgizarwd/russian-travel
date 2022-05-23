@@ -1,8 +1,8 @@
 @media screen and (max-width: 767px) {
-    .link__item {
+    .footer__link-item {
         padding-bottom: 32px;
     }
-    .link__item:last-of-type {
+    .footer__link-item:last-of-type {
         padding-bottom: 48px;
     }
   }

@@ -1,8 +1,9 @@
 .place {
   display: grid;
-  max-width: calc(100% - (100% - 83.1081081081081%));
+  max-width: 83%;
   margin: 80px auto 0;
-  grid-template-columns: calc(100% - (100% - 46.7479674796748%)) minmax(min-content, max-content);
+  grid-template-columns: 46.75% minmax(min-content, max-content);
+  
   grid-template-rows: repeat(2, minmax(min-content, max-content));
   column-gap: 40px;
   row-gap: 48px;
@@ -13,7 +14,7 @@
 
 @media screen and (max-width: 1279px) {
   .place {
-    max-width: 720px;
+    max-width: 97%;
     /* grid-template-columns: 440px 352px; */
   }
 }

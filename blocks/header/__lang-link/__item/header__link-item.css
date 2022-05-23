@@ -1,8 +1,11 @@
 .header__link-item {
   color: white;
   text-decoration-line: none;
+  margin-right: 18px;
 }
-
+.header__link-item:last-child {
+  margin: 0;
+}
 .header__link-item:hover {
   opacity: 0.8;
 }

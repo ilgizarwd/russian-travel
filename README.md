@@ -15,4 +15,8 @@ CSS адаптив и медиазапросы
 **Впечатления**
 Впечатлений везу с собой 2 вагона
 
+<<<<<<< HEAD
 https://ilgizarwd.github.io/russian-travel/
+=======
+https://ilgizarwd.github.io/russian-travel/
+>>>>>>> 8017de6 (for first reveiw_4)

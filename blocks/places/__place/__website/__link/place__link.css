@@ -8,6 +8,7 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: #FFFFFF;
+  max-width: fit-content;
 }
 
 .place__link:hover {
