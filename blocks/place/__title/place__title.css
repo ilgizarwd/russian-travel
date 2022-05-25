@@ -3,13 +3,13 @@
   grid-row: 1/2;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
+  line-height: 106%;
 }
 
 @media screen and (max-width: 1023px) {
   .place__title {
     font-size: 42px;
-    line-height: 46px;
+    line-height: 110%;
   }
 }
 
@@ -17,7 +17,7 @@
   .place__title {
     grid-column: 1/2;
     font-size: 32px;
-    line-height: 35px;
+    line-height: 109%;
     padding: 0 16px 32px;
   }
 }
